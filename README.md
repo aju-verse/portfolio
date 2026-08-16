@@ -6,4 +6,4 @@ Main technologies: HTML, CSS, and JavaScript.
 
 JavaScript features: accessible contact-form validation and a persistent dark/light theme switch.
 
-Live demo: https://portfolio-aju-verse1.vercel.app
+Live demo: https://portfolio-two-iota-dqycwt0bae.vercel.app
